@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Welcome to my GitHub page :)
 
-
+<img src="github.gif" width="100">
 
 <!--
 **berdanasen/berdanasen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
