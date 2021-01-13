@@ -2,6 +2,8 @@
 
 <img src="github.gif" width="100">
 
+<img src="github2.gif" width="100"> | <img src="github3.gif" width="100"> 
+
 <!--
 **berdanasen/berdanasen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
